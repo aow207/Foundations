@@ -1,0 +1,1 @@
+0 8 * * *  python3 ~/Homework\ 10\ -\ Servers\ and\ cron\ jobs.py
