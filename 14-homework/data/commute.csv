@@ -1,0 +1,11 @@
+﻿country,source,destination,distance,pct_wages
+UK,Luton,London St Pancras,35,14
+UK,Liverpool Lime St,Manchester Piccadilly,32,10.6
+Germany,Brandenburg,Berlin,43,7.9
+Finland,Karis,Helsinki,47,6.6
+Sweden,Uppsala,Stockholm,45,6.4
+Ireland,Drogheda,Dublin,29,6.2
+Norway,Moss,Oslo,39,4
+Spain,Aranjuez,Madrid,31,3.9
+Italy,Anzio,Rome,31,3.1
+France,Mantes-la-Jolie,Paris,34,2.4
